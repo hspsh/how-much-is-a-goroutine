@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: Apache-2.0
 package how_much_is_a_goroutine
 
 func GetFibonacciByIndex(index int) int64 {
